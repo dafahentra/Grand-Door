@@ -1,5 +1,5 @@
 import "./Contact.scss";
-import contactImage from "../../images/contact.webp"
+import contactImage from "../../images/herow.webp"
 import React, { useEffect, useState } from 'react';
 import cn from 'classnames';
 
