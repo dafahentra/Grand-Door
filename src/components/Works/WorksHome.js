@@ -46,25 +46,25 @@ export default function WorksHome() {
       "title": "Roman Tinata",
       "thumbnail": thumbnailWork4,
       "detail": "Seru Banget. Harganya juga affordable sih, lumayan lah",
-      "link": "https://www.behance.net/gallery/158897383/Creative-Designer-Portfolio",
+      "link": "https://www.instagram.com/roman_tnata",
     },
     {
       "title": "Raga Jati",
       "thumbnail": thumbnailWork3,
       "detail": "Menurut aku ini worth to try banget si. Agak serem tapi menantang",
-      "link": "https://www.behance.net/gallery/158436257/HD-Assistante-Website",
+      "link": "https://www.instagram.com/ragajat_",
     },
     {
       "title": "Davina Winnie",
       "thumbnail": thumbnailWork2,
       "detail": "Sumpah ini seru banget. kalian wajib coba pokoknya! makanan sama minumannya juga lumayan enak",
-      "link": "https://www.behance.net/gallery/156839471/Real-Estate-Management-Interface",
+      "link": "https://www.instagram.com/davinawinnie_",
     },
     {
       "title": "Dafa Hentra",
       "thumbnail": thumbnailWork1,
       "detail": "Mbohlah",
-      "link": "https://www.behance.net/gallery/156836453/League-of-Legends-Universe",
+      "link": "https://www.instagram.com/dapahentra",
     }
   ]
 
