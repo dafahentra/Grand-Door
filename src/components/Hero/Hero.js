@@ -37,7 +37,7 @@ export default function Hero() {
   return (
     <section id="home" className="main-hero-section" data-scroll-section>
       <div className="container-title">
-        <div className="text text-24 font-neutral ml-1 mb-24 tablet-ml-0 tablet-mb-0" data-scroll data-scroll-speed="-1">A LITTLE PEEK TO</div>
+        <div className="text text-24 font-neutral ml-1 mb-24 tablet-ml-0 tablet-mb-0" data-scroll data-scroll-speed="-1">A LITTLE PEEK INTO</div>
         <h1 id="hero-title" className="font-white ml-1 tablet-ml-0 title title-hero" data-scroll data-scroll-direction="vertical" data-scroll-speed="1">
           GRAND DOOR
         </h1>
