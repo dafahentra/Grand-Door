@@ -40,45 +40,30 @@ export default function WorksHome() {
   const thumbnailWork2 = require('../../images/projects/RE-management.webp');
   const thumbnailWork3 = require('../../images/projects/HD-assistante.webp');
   const thumbnailWork4 = require('../../images/projects/Self-branding.webp');
-  const thumbnailWork5 = require('../../images/projects/MT-architecture.webp');
-  const thumbnailWork6 = require('../../images/projects/Jasmin-bonheur.webp');
-
 
   const works = [
     {
-      "title": "Jasmin Bonheur",
-      "thumbnail": thumbnailWork6,
-      "detail": "UI / UX Design, Development",
-      "link": "https://www.behance.net/gallery/161514471/Guerlain-Jasmin-Bonheur-Product-Landing-Page-Concept",
-    },
-    {
-      "title": "MT Architecture",
-      "thumbnail": thumbnailWork5,
-      "detail": "UI / UX Design, Development",
-      "link": "https://www.behance.net/gallery/160351639/MT-Architecture",
-    },
-    {
-      "title": "Self Branding",
+      "title": "Roman Tinata",
       "thumbnail": thumbnailWork4,
-      "detail": "UI / UX Design, Development",
+      "detail": "Seru Banget. Harganya juga affordable sih, lumayan lah",
       "link": "https://www.behance.net/gallery/158897383/Creative-Designer-Portfolio",
     },
     {
-      "title": "HD Assistante",
+      "title": "Raga Jati",
       "thumbnail": thumbnailWork3,
-      "detail": "UI / UX Design",
+      "detail": "Menurut aku ini worth to try banget si. Agak serem tapi menantang",
       "link": "https://www.behance.net/gallery/158436257/HD-Assistante-Website",
     },
     {
-      "title": "Real Estate",
+      "title": "Davina Winnie",
       "thumbnail": thumbnailWork2,
-      "detail": "UI / UX Design",
+      "detail": "Sumpah ini seru banget. kalian wajib coba pokoknya! makanan sama minumannya juga lumayan enak",
       "link": "https://www.behance.net/gallery/156839471/Real-Estate-Management-Interface",
     },
     {
-      "title": "LOL Universe",
+      "title": "Dafa Hentra",
       "thumbnail": thumbnailWork1,
-      "detail": "UI / UX Design",
+      "detail": "Mbohlah",
       "link": "https://www.behance.net/gallery/156836453/League-of-Legends-Universe",
     }
   ]
