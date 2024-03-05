@@ -57,7 +57,7 @@ export default function Contact() {
         <div className="links-container">
           <div className="links">
             <div className="link-title text">Socials</div>
-            <div className="link text font-white hover-underline-animation"><a href="https://www.instagram.com/dapahentra/" target="_blank" rel="noreferrer">Instagram</a></div>
+            <div className="link text font-white hover-underline-animation"><a href="https://www.instagram.com/granddoor.id/" target="_blank" rel="noreferrer">Instagram</a></div>
             <div className="link text font-white hover-underline-animation"><a href="https://vt.tiktok.com/ZSFDvgsk8//" target="_blank" rel="noreferrer">Tiktok</a></div>
             <div className="link text font-white hover-underline-animation"><a href="https://www.twitter.com/aesketik/" target="_blank" rel="noreferrer">Twitter</a></div>
           </div>
