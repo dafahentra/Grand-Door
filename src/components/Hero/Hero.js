@@ -41,7 +41,7 @@ export default function Hero() {
         <h1 id="hero-title" className="font-white ml-1 tablet-ml-0 title title-hero" data-scroll data-scroll-direction="vertical" data-scroll-speed="1">
           GRAND DOOR
         </h1>
-        <div className="text text-24 font-neutral ml-1 tablet-ml-0 from-france" data-scroll data-scroll-speed="-1">BRING NEW EXPERIENCE TO THE GAME</div>
+        <div className="text text-24 font-neutral ml-1 tablet-ml-0 from-france" data-scroll data-scroll-speed="-1">PUT YOURSELF TO A NEW EXPERIENCE</div>
       </div>
 
       <div className={cn("hero-image", { "is-reveal": reveal })}>
