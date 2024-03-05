@@ -40,12 +40,19 @@ export default function WorksHome() {
   const thumbnailWork2 = require('../../images/projects/Profile.webp');
   const thumbnailWork3 = require('../../images/projects/Profile.webp');
   const thumbnailWork4 = require('../../images/projects/Profile.webp');
+  const thumbnailWork5 = require('../../images/projects/Profile.webp');
 
   const works = [
     {
+      "title": "Naufal Rizki",
+      "thumbnail": thumbnailWork5,
+      "detail": "Bikin pusing sih tapi seru pol ga boong",
+      "link": "https://www.instagram.com/naufalaliefianto",
+    },
+    {
       "title": "Roman Tinata",
       "thumbnail": thumbnailWork4,
-      "detail": "Seru Banget. Harganya juga affordable sih, lumayan lah",
+      "detail": "Seru banget. Harganya juga affordable sih, lumayan lah",
       "link": "https://www.instagram.com/roman_tnata",
     },
     {
