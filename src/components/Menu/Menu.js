@@ -62,7 +62,7 @@ export default function Menu() {
               </a>
             </div>
             <div className="menu__inner--links">
-              <span className="text font-white hover-underline-animation"><a href="#works-home">Works</a></span>
+              <span className="text font-white hover-underline-animation"><a href="#works-home">What They Said</a></span>
               <span className="text font-white hover-underline-animation"><a href="#about">About</a></span>
               <span className="text font-white hover-underline-animation"><a href="#contact">Contact</a></span>
             </div>
@@ -79,7 +79,7 @@ export default function Menu() {
 
           <div className="mobile__links">
             <span className="title title-menu font-white">Menu</span>
-            <span className="text font-white hover-underline-animation"><a href="#works-home">Works</a></span>
+            <span className="text font-white hover-underline-animation"><a href="#works-home">What They Said</a></span>
             <span className="text font-white hover-underline-animation"><a href="#about">About</a></span>
             <span className="text font-white hover-underline-animation"><a href="#contact">Contact</a></span>
           </div>
@@ -87,15 +87,15 @@ export default function Menu() {
           <div className="mobile__contact">
             <div className="links">
               <div className="link-title text">Socials</div>
-              <div className="link text font-white hover-underline-animation"><a href="https://www.behance.net/minhthanhnguyen3/" target="_blank" rel="noreferrer">Behance</a></div>
-              <div className="link text font-white hover-underline-animation"><a href="https://www.instagram.com/minhthanh7219/" target="_blank" rel="noreferrer">Instagram</a></div>
-              <div className="link text font-white hover-underline-animation"><a href="https://www.linkedin.com/in/ngmthanh/" target="_blank" rel="noreferrer">LinkedIn</a></div>
+              <div className="link text font-white hover-underline-animation"><a href="https://www.instagram.com/dapahentra/" target="_blank" rel="noreferrer">Instagram</a></div>
+              <div className="link text font-white hover-underline-animation"><a href="https://vt.tiktok.com/ZSFDvgsk8/" target="_blank" rel="noreferrer">Tiktok</a></div>
+              <div className="link text font-white hover-underline-animation"><a href="https://www.twitter.com/aesketik/" target="_blank" rel="noreferrer">Twitter</a></div>
             </div>
 
             <div className="links">
               <div className="link-title text">Contact</div>
-              <div className="link text font-white hover-underline-animation"><a href="mailto:nmthanh99@gmail.com">nmthanh99@gmail.com</a></div>
-              <div className="link text font-white hover-underline-animation"><a href="tel:+33621617481">+33 6 21 61 74 81</a></div>
+              <div className="link text font-white hover-underline-animation"><a href="mailto:granddoor@gmail.com">granddoor@gmail.com</a></div>
+              <div className="link text font-white hover-underline-animation"><a href="tel:+6282322735591">+62 823 2273 5591</a></div>
               <div className="link text font-white hover-underline-animation">&#8205;</div>
             </div>
           </div>

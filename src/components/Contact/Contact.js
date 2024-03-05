@@ -64,7 +64,7 @@ export default function Contact() {
 
           <div className="links">
             <div className="link-title text">Contact</div>
-            <div className="link text font-white hover-underline-animation"><a href="mailto:GrandDoor@gmail.com">GrandDoor@gmail.com</a></div>
+            <div className="link text font-white hover-underline-animation"><a href="mailto:granddoor@gmail.com">granddoor@gmail.com</a></div>
             <div className="link text font-white hover-underline-animation"><a href="tel:+6282322735591">+62 823 2273 5591</a></div>
             <div className="link text font-white hover-underline-animation">&#8205;</div>
           </div>
