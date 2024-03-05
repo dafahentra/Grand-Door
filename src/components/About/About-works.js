@@ -8,7 +8,7 @@ export default function AboutWorks() {
 
   return (
     <section id="about" className="about-section" data-scroll-section>
-      <div className="font-white ml-1 tablet-m-0 title title-description"  data-scroll data-scroll-direction="vertical" data-scroll-speed="2">DENGAN PERPADUAN RUMAH HANTU DAN TANTANGAN ESCAPE GAME. KAMI MENCIPTAKAN PENGALAMAN HOROR BARU YANG MEMICU ADRENALIN</div>
+      <div className="font-white ml-1 tablet-m-0 title title-description"  data-scroll data-scroll-direction="vertical" data-scroll-speed="2">EXPERIENCE A HAUNTED HOUSE WITH AN ESCAPE GAME CHALLENGES. BRACE YOURSELF FOR AN ADRENALINE-PUMPING HORROR ENCOUNTER!</div>
       <div className="font-neutral ml-1 mt-24 tablet-ml-0 text"  data-scroll data-scroll-direction="vertical" data-scroll-speed="1">Check Out<br></br>What They Said &#8594; <a className="font-white hover-underline-animation" href="#works-home">HERE</a></div>
 
       <div className="about-canvas mt-160 ml-4 tablet-ml-0">
