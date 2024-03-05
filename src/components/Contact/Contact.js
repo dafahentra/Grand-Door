@@ -71,7 +71,6 @@ export default function Contact() {
         </div>
       </div>
 
-      <div className="text designed-by font-white">Designed by Dape.</div>
     </section>
   )
 }
