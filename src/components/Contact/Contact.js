@@ -45,7 +45,7 @@ export default function Contact() {
     <section id="contact" className="contact-section" data-scroll-section>
       <div className="wrapper-rolling-text">
         <div className="rolling-text font-white title title-contact">
-          <span>Get in touch · Get in touch ·&nbsp;</span>
+          <span>Don't Missed It · Don't Missed It ·&nbsp;</span>
         </div>
       </div>
 
@@ -71,7 +71,7 @@ export default function Contact() {
         </div>
       </div>
 
-      <div className="text designed-by font-white">Designed by Minh Thanh.</div>
+      <div className="text designed-by font-white">Designed by Dape.</div>
     </section>
   )
 }
