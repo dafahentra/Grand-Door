@@ -91,7 +91,7 @@ export default function WorksHome() {
 
   return (
     <section id="works-home" className={cn("home-works-section", { "is-reveal": reveal })} data-scroll-section>
-      <h2 ref={ref} id="works-title" className={cn("works-title title title-works font-white", { "is-reveal": reveal })} data-scroll data-scroll-direction="vertical" data-scroll-speed="2">What They Said?</h2>
+      <h2 ref={ref} id="works-title" className={cn("works-title title title-works font-white", { "is-reveal": reveal })} data-scroll data-scroll-direction="vertical" data-scroll-speed="2">What They Said</h2>
 
       <Swiper slidesPerView={"auto"} className="work-slider">
         {workSliderContent}
