@@ -64,7 +64,7 @@ export default function WorksHome() {
     {
       "title": "Davina Winnie",
       "thumbnail": thumbnailWork2,
-      "detail": "Sumpah ini seru banget. kalian wajib coba pokoknya! makanan sama minumannya juga lumayan enak",
+      "detail": "Sumpah ini seru banget. kalian wajib coba pokoknya!",
       "link": "https://www.instagram.com/davinawinnie_",
     },
     {
