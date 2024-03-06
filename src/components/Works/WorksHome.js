@@ -36,11 +36,11 @@ export default function WorksHome() {
     // });
   }, []);
 
-  const thumbnailWork1 = require('../../images/projects/Profile.webp');
-  const thumbnailWork2 = require('../../images/projects/Profile.webp');
-  const thumbnailWork3 = require('../../images/projects/Profile.webp');
-  const thumbnailWork4 = require('../../images/projects/Profile.webp');
-  const thumbnailWork5 = require('../../images/projects/Profile.webp');
+  const thumbnailWork1 = require('../../images/projects/Dafa.webp');
+  const thumbnailWork2 = require('../../images/projects/Davina.webp');
+  const thumbnailWork3 = require('../../images/projects/Raga.webp');
+  const thumbnailWork4 = require('../../images/projects/Roman.webp');
+  const thumbnailWork5 = require('../../images/projects/Naufal.webp');
 
   const works = [
     {
