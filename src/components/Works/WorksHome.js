@@ -70,7 +70,7 @@ export default function WorksHome() {
     {
       "title": "Dafa Hentra",
       "thumbnail": thumbnailWork1,
-      "detail": "Feelnya berasa kayak dikejar deadline",
+      "detail": "Gilaa seruu abiss minttt",
       "link": "https://www.instagram.com/dapahentra",
     }
   ]
