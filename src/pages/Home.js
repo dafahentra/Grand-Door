@@ -107,7 +107,6 @@ export default function Home() {
       <Hero />
       <AboutWorks />
       <SeparatorImage />
-      <Chapter/>
       <AboutInstagram />
       <WorksHome />
       <Contact />
