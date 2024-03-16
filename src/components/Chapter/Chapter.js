@@ -15,6 +15,8 @@ export default function WorksHome() {
   }, []);
 
   useEffect(() => {
+    const swiper = new Swiper('.work-slider', {
+      direction: 'vertical' });
     // --------------------------------------------------------
     // Text appear animation
     // const split = new SplitText("#works-title", {
