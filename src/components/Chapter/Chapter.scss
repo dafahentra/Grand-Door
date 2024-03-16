@@ -6,7 +6,8 @@
   padding: 280px 0 160px;
   background: var(--col-dark);
   display: flex;
-  position: vertical;
+  flex-direction: column;
+  position: relative;
 
   @include small-screen {
     padding: 160px 0;
