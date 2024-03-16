@@ -15,6 +15,19 @@ export default function WorksHome() {
   }, []);
 
   useEffect(() => {
+    const swiper = new Swiper('.work-slider', {
+      direction: 'vertical', // Key change for vertical scrolling
+      slidesPerView: 'auto',
+      freeMode: true,    
+      mousewheel: true,  // Optional for mousewheel scrolling
+    });
+
+    // Optional cleanup/destroy swiper on component unmount:
+    return () => {
+      if (swiper) {
+        swiper.destroy();
+      }
+    };
     // --------------------------------------------------------
     // Text appear animation
     // const split = new SplitText("#works-title", {
