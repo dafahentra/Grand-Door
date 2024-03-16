@@ -35,17 +35,10 @@
 
 .work-slider {
   padding: 0 var(--active-margin-grid) !important;
-  display: flex; /* Added */ 
-  flex-direction: column; /* Added */
-
-  /* Optionally, to set a fixed height: */
-  // height: 600px; 
-
-  /* Or, remove height if you want content-based height*/
 
   .work-item {
     // Override swiper slide styles
-    width: 100% !important;
+    width: 29vw !important;
     // width: clamp(320px, 29vw, 29vw) !important;
     // width: calc((100vw - (2 * var(--active-margin-grid))) / 3) !important;
     height: auto !important;
