@@ -4,7 +4,7 @@ import SeparatorImage from '../components/SeparatorImage/SeparatorImage';
 import AboutInstagram from '../components/About/About-instagram';
 import WorksHome from '../components/Works/WorksHome';
 import Contact from '../components/Contact/Contact';
-import Value from '../components/Value/value';
+import Chapter from '../components/Chapter/Chapter';
 import { useEffect, useState } from 'react';
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
@@ -107,8 +107,8 @@ export default function Home() {
       <Hero />
       <AboutWorks />
       <SeparatorImage />
-      <Value/>
       <AboutInstagram />
+      <Chapter/>
       <WorksHome />
       <Contact />
     </section>
