@@ -14,20 +14,18 @@ export default function WorksHome() {
     setTimeout(() => setReveal(true), 100);
   }, []);
 
-  useEffect(() => {
+  useEffect(() => { 
+
     const swiper = new Swiper('.work-slider', {
       direction: 'vertical', // Key change for vertical scrolling
       slidesPerView: 'auto',
       freeMode: true,    
       mousewheel: true,  // Optional for mousewheel scrolling
     });
-
-    // Optional cleanup/destroy swiper on component unmount:
-    return () => {
-      if (swiper) {
-        swiper.destroy();
-      }
     };
+  }, []); 
+
+  useEffect(() => {
     // --------------------------------------------------------
     // Text appear animation
     // const split = new SplitText("#works-title", {
