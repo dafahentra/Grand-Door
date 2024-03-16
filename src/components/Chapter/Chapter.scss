@@ -6,7 +6,7 @@
   padding: 280px 0 160px;
   background: var(--col-dark);
   display: flex;
-  position: relative;
+  position: vertical;
 
   @include small-screen {
     padding: 160px 0;
@@ -35,6 +35,7 @@
 
 .work-slider {
   padding: 0 var(--active-margin-grid) !important;
+  
 
   .work-item {
     // Override swiper slide styles
