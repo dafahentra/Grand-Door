@@ -107,8 +107,8 @@ export default function Home() {
       <Hero />
       <AboutWorks />
       <SeparatorImage />
-      <AboutInstagram />
       <Chapter/>
+      <AboutInstagram />
       <WorksHome />
       <Contact />
     </section>
