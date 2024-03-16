@@ -14,17 +14,6 @@ export default function WorksHome() {
     setTimeout(() => setReveal(true), 100);
   }, []);
 
-  useEffect(() => { 
-
-    const swiper = new Swiper('.work-slider', {
-      direction: 'vertical', // Key change for vertical scrolling
-      slidesPerView: 'auto',
-      freeMode: true,    
-      mousewheel: true,  // Optional for mousewheel scrolling
-    });
-    };
-  }, []); 
-
   useEffect(() => {
     // --------------------------------------------------------
     // Text appear animation
